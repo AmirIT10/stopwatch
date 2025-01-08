@@ -7,7 +7,7 @@ class APP extends React.Component {
   constructor() {
     super();
     this.state = {
-      time: 10,
+      time: 20,
       title: "Click chenge to time ;)",
     };
   }
